@@ -4,7 +4,7 @@ import os
 
 # --- ቁልፎችህን እዚህ አስገባ ---
 BOT_TOKEN = "8649208087:AAEdjKBJD9JH48O3KnWkKfx_qTqtE5Cupjo"
-AI_KEY = AIzaSyACzxU3JtxH_Sw3hNg5eT6wPcGlYQvrne4"
+AI_KEY = "AIzaSyACzxU3JtxH_Sw3hNg5eT6wPcGlYQvrne4"
 
 # AI ማዋቀር
 genai.configure(api_key=AI_KEY)
